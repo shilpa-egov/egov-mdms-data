@@ -146,6 +146,16 @@
       "code": "PLAN_ESTIMATION_APPROVER",
       "name": "plan estimation approver",
       "description": "plan estimation approver"
+    },
+    {
+      "code": "PROXIMITY_SUPERVISOR",
+      "name": "Proximity Supervisor",
+      "description": "Proximity Supervisor- Attendance Reviewer"
+    },
+    {
+      "code": "CAMPAIGN_SUPERVISOR",
+      "name": "Campaign Supervisor",
+      "description": "Campaign Supervisor- Bill Generator"
     }
   ]
 }
