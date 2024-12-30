@@ -31867,6 +31867,13 @@
       "actionid": 5547,
       "actioncode": "",
       "tenantId": "pg"
+  }, 
+    {
+      "rolecode": "HEALTH_FACILITY_WORKER",
+      "actionid": 5548,
+      "actioncode": "",
+      "tenantId": "mz"
   }
+    
   ]
 }
